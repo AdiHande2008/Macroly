@@ -32,8 +32,6 @@ def render_message(message):
     with st.chat_message(message["role"]):
         if message["kind"] == "text":
             st.write(message["content"])
-        elif message["kind"] == "image":
-            st.image(message["content"])
  
  
 def add_message(role, kind, content):
