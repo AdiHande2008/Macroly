@@ -1,4 +1,4 @@
-# 🥗 Macroly
+# Macroly
 
 ### AI-Powered Food Vision & Nutrition Coach
 
@@ -6,41 +6,41 @@
 
 Macroly is an AI-powered nutrition tracking app that uses **computer vision and AI** to analyze food images, estimate portions, calculate calories and macros, and provide personalized fitness coaching.
 
-## ✨ Features
+## Features
 
-- 📸 **AI Food Analysis** — Identify food from a meal photo.
-- 🔥 **Calorie Estimation** — Get approximate calorie ranges.
-- 💪 **Macro Tracking** — Track protein, carbs, fat, and fiber.
-- ⚖️ **Portion Estimation** — Estimate serving sizes using visual context.
-- 🧠 **Confidence-Aware AI** — Clearly communicates uncertainty instead of fake precision.
-- 💬 **Smart Clarification** — Ask simple questions when more information is needed.
-- 🏋️ **AI Fitness Coach** — Get practical nutrition and fitness suggestions.
-- 📊 **Daily Tracking** — Monitor your daily calories and macros.
-- 📲 **WhatsApp Summary** — Send your nutrition summary directly to WhatsApp.
+-  **AI Food Analysis** — Identify food from a meal photo.
+-  **Calorie Estimation** — Get approximate calorie ranges.
+-  **Macro Tracking** — Track protein, carbs, fat, and fiber.
+-  **Portion Estimation** — Estimate serving sizes using visual context.
+-  **Confidence-Aware AI** — Clearly communicates uncertainty instead of fake precision.
+-  **Smart Clarification** — Ask simple questions when more information is needed.
+-  **AI Fitness Coach** — Get practical nutrition and fitness suggestions.
+-  **Daily Tracking** — Monitor your daily calories and macros.
+-  **WhatsApp Summary** — Send your nutrition summary directly to WhatsApp.
 
-## 🧠 How It Works
+##  How It Works
 
 ```text
-📸 Meal Photo
+ Meal Photo
      ↓
-👁️ AI Vision
+ AI Vision
      ↓
-🍽️ Food Identification
+ Food Identification
      ↓
-⚖️ Portion Estimation
+ Portion Estimation
      ↓
-🔥 Calories + Macros
+ Calories + Macros
      ↓
-💪 AI Coaching
+ AI Coaching
      ↓
-📊 Daily Tracking
+ Daily Tracking
      ↓
-📲 WhatsApp Summary
+ WhatsApp Summary
 ```
 
 Macroly doesn't pretend a photo can provide exact nutrition. It uses **estimated ranges, confidence levels, and user clarification** when needed.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Streamlit**
@@ -49,7 +49,7 @@ Macroly doesn't pretend a photo can provide exact nutrition. It uses **estimated
 - **WhatsApp Integration**
 - **Custom Glassmorphism UI**
 
-## 🚀 Run Locally
+##  Run Locally
 
 ```bash
 git clone <your-repository-url>
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🎯 Vision
+##  Vision
 
 **TRACK → UNDERSTAND → IMPROVE → REPEAT.**
 
